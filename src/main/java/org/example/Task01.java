@@ -22,8 +22,7 @@ public class Task01 {
 
         } else if (a >= 50 && a < 70 && b >= 50 && b < 70 && c >= 50 && c < 70) {
             System.out.println("You passed.");
-        }
-        else{
+        } else {
             System.out.println("Failed.");
         }
     }
